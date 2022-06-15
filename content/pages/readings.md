@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The texts for this course are listed in this section in the order that
+  they are used. Excerpts of these texts, combined with handouts of assorted poems,
+  served as the reading assignments for the course, as shown in the table below.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description, information on
+  meeting times, and a statement on plagiarism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +18,7 @@ Course Description
 
 Our endeavor will be to taste test the rich feast of current Irish writing fiction, drama, and poetry. The mode of the course will be discussion; you should come to class each time ready to join in (by asking questions, if nothing else). Soon I will have you sign up for a "lead-off" and a "wrap-up" role. The "lead-off" person is obligated only to point out a crucial issue in that days text and raise the question we will use to begin. The "wrap-up" person will do just that - offer an articulation of the major points raised in the class session.
 
-See the [readings]({{< baseurl >}}/pages/readings) section for the texts used in this course.
+See the {{% resource_link 12e75393-c6b9-8805-7142-3458fe3b9ece "readings" %}} section for the texts used in this course.
 
 A Preliminary Word About a Hard Subject
 ---------------------------------------
