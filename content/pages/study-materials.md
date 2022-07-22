@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides information to help students write the essays assigned
+  for this course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: f8caba59-98a6-1849-baa8-37595483c2fc
 ---
 
-This section provides information to help students write the [essays]({{< baseurl >}}/pages/assignments) assigned for this course.
+This section provides information to help students write the {{% resource_link 5601a2a2-4dcb-5796-76da-6afb64f59ca4 "essays" %}} assigned for this course.
 
 [Developing a Thesis](#Developing_a_Thesis)  
 [Some Criteria for a Good Paper](#Some_Criteria_for_a_Good_Paper)  
